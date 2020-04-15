@@ -1,6 +1,6 @@
 .row-hearder{
     margin: 0px auto;
-    padding: 0px auto;
+    padding: 10px 0px 10px 0px;
 }
 
 .row-content {
@@ -37,4 +37,23 @@ body {
 
 .navbar-dark {
     background-color: blueviolet;
+}
+
+.row-form {
+    margin: 0px auto;
+    padding: 15px 0px 15px 0px;
+
+}
+
+.row-border {
+    border-left: 1px ridge;
+    border-right: 1px ridge;
+    border-bottom: 1px ridge;
+}
+
+.tab-content {
+    border-left: 1px solid #ddd;
+    border-right: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+    padding: 10px;
 }
